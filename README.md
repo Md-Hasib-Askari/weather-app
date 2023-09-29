@@ -1,6 +1,6 @@
 # Weather Application
 
-![img.png](img.png)
+![img.png](ui/img.png)
 A simple and responsive weather application built with React, React Icons, and Tailwind CSS. Get real-time weather information for your location or any other city around the world.
 
 ## Features
